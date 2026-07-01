@@ -93,7 +93,11 @@ The assistant focuses on automation, personalization, and secure AI-based contro
 ## 📜 Certifications
 
 - Python for Data Science — NPTEL  
-- Deloitte Data Analytics Job Simulation — Forage  
+- Deloitte Data Analytics Job Simulation — Forage
+- Superstar of Training Award | Sumago Infotech Pvt. Ltd. | Feb 2024
+- AI for Business Leader BootCamp | Growth School | May 2026
+- Generative AI Workshop | Growth School | May 2026
+
 
 ---
 

@@ -59,4 +59,4 @@ LinkedIn
 www.linkedin.com/in/vaibhav-lonkar8906
 
 Email  
-vaibhavixvi@gmail.com
+ixvlvaibhav@gmail.com
